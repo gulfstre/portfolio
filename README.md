@@ -1,1 +1,2 @@
 - time series, прогнозирование заказов такси. [colab](https://colab.research.google.com/drive/1pWr6MJXIRRy1pajeuMOLTx3ZDgGinJpF)
+- за вторую половину 2022 года выполнил несколько десятков проектов, постепенно добавляю их сюда, либо могу предоставить по запросу. 
